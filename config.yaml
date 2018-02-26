@@ -1,0 +1,8 @@
+address: "127.0.0.1"
+port: "21"
+login: "ddd"
+password: "ddd"
+path: "C:/Users/oliver.alnas/Documents/GitHub/ftp server/ghetto_dropbox_folder"
+uploaded_files: "uploaded_folder"
+old: "old"
+refresh: 300

@@ -1,0 +1,5 @@
+Upload files from ghetto_dropbox_folder => uploaded_folder
+Compare files in uploaded_folder with old_folder
+If files in uplaoded_folder exist? in old_folder, overwrite files and if neccessary create new old_files
+
+If file exists in all three folders, delete file in old, move file from uploaded to old then upload from gh.
